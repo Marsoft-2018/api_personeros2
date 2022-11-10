@@ -1,0 +1,73 @@
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.csproj.AssemblyReference.cache
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.AssemblyInfoInputs.cache
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.AssemblyInfo.cs
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.csproj.CoreCompileInputs.cache
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.exe
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.deps.json
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.runtimeconfig.json
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.runtimeconfig.dev.json
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.pdb
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\staticwebassets\API_personeros2.StaticWebAssets.Manifest.cache
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\staticwebassets\API_personeros2.StaticWebAssets.xml
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\scopedcss\bundle\API_personeros2.styles.css
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.RazorTargetAssemblyInfo.cache
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.csproj.CopyComplete
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.pdb
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.genruntimeconfig.cache
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Familia Tapia\source\repos\API_personeros2\API_personeros2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.exe
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.deps.json
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.runtimeconfig.json
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.runtimeconfig.dev.json
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\API_personeros2.pdb
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.csproj.AssemblyReference.cache
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.AssemblyInfoInputs.cache
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.AssemblyInfo.cs
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.csproj.CoreCompileInputs.cache
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.MvcApplicationPartsAssemblyInfo.cache
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\staticwebassets\API_personeros2.StaticWebAssets.Manifest.cache
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\staticwebassets\API_personeros2.StaticWebAssets.xml
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\scopedcss\bundle\API_personeros2.styles.css
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.RazorTargetAssemblyInfo.cache
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.csproj.CopyComplete
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.dll
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.pdb
+C:\INFORMACION 3\Proyectos VUE\Con CLI\votos_vue\API_personeros2\obj\Debug\netcoreapp3.1\API_personeros2.genruntimeconfig.cache

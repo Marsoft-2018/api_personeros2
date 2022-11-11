@@ -41,6 +41,27 @@ namespace API_personeros2.Controllers
             }
             return new JsonResult(tabla);
         }
+        [HttpGet]
+        [Route("aspirantes")]
+        public JsonResult Aspirantes()
+        {
+            string query = @"listaPosiblesCandidatos()";
+            DataTable tabla = new DataTable();
+            string sqlDataSource = _configuration.GetConnectionString("ConexionBdt");
+            MySqlDataReader myReader;
+            using (MySqlConnection myCon = new MySqlConnection(sqlDataSource))
+            {
+                myCon.Open();
+                using (MySqlCommand myComand = new MySqlCommand(query, myCon))
+                {
+                    myReader = myComand.ExecuteReader();
+                    tabla.Load(myReader);
+                    myReader.Close();
+                    myCon.Close();
+                }
+            }
+            return new JsonResult(tabla);
+        }
 
         [HttpPost]
         public JsonResult Post(Candidato cand)

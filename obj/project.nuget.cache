@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FBRe/uHDcxpeSTq8rHDRIKuhSOfcLywUJ/Reg8Kkr9aZNCKlp9JBz7APamSjHicTFgIpWoTz1e1c0pgQKG9rew==",
+  "dgSpecHash": "vrdcjdzOXkiStY7wZJxgF11YCfnQVQurUN1z93vE1N5wjnEobRc9JGJny9/WDzlunuhLgQTgGSs0onhp2hj6Kw==",
   "success": true,
-  "projectFilePath": "C:\\INFORMACION 3\\Proyectos VUE\\Con CLI\\votos_vue\\API_personeros2\\API_personeros2.csproj",
+  "projectFilePath": "C:\\INFORMACION 3\\Proyectos VUE\\api_personeros2\\API_personeros2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Jose Tapia\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",
     "C:\\Users\\Jose Tapia\\.nuget\\packages\\k4os.compression.lz4\\1.2.6\\k4os.compression.lz4.1.2.6.nupkg.sha512",

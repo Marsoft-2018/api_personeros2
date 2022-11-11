@@ -1058,11 +1058,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\INFORMACION 3\\Proyectos VUE\\Con CLI\\votos_vue\\API_personeros2\\API_personeros2.csproj",
+      "projectUniqueName": "C:\\INFORMACION 3\\Proyectos VUE\\api_personeros2\\API_personeros2.csproj",
       "projectName": "API_personeros2",
-      "projectPath": "C:\\INFORMACION 3\\Proyectos VUE\\Con CLI\\votos_vue\\API_personeros2\\API_personeros2.csproj",
+      "projectPath": "C:\\INFORMACION 3\\Proyectos VUE\\api_personeros2\\API_personeros2.csproj",
       "packagesPath": "C:\\Users\\Jose Tapia\\.nuget\\packages\\",
-      "outputPath": "C:\\INFORMACION 3\\Proyectos VUE\\Con CLI\\votos_vue\\API_personeros2\\obj\\",
+      "outputPath": "C:\\INFORMACION 3\\Proyectos VUE\\api_personeros2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
